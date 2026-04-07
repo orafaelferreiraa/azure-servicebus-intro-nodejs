@@ -32,6 +32,8 @@ Exemplos reais:
 - Conta no Azure com permissao para criar recursos.
 - Node.js LTS (recomendado Node 18+).
     - Download: https://nodejs.org/en/download
+- Git (opcional, para clonar o codigo do GitHub).
+  - Download: https://git-scm.com/downloads
 - Azure CLI instalado.
     - Download: https://learn.microsoft.com/cli/azure/install-azure-cli
 
